@@ -2,5 +2,6 @@
 This is line 2
 This is line 3
 
+This is another change.
 This is a local change
-that may conflict with other changes with other developers.
+This is another change..
